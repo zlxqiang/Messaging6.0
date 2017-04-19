@@ -1,0 +1,3 @@
+include ':app', ':vcard', ':rastermill'
+include ':photoviewer'
+include ':chips'
