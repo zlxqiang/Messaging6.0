@@ -1,0 +1,235 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* Android.mk
+* sample\
+* sample\Android.mk
+* sample\AndroidManifest.xml
+* sample\res\
+* sample\res\drawable-hdpi\
+* sample\res\drawable-hdpi\ic_launcher.png
+* sample\res\drawable-mdpi\
+* sample\res\drawable-mdpi\ic_launcher.png
+* sample\res\drawable-xhdpi\
+* sample\res\drawable-xhdpi\ic_launcher.png
+* sample\res\layout\
+* sample\res\layout\activity_main.xml
+* sample\res\values-af\
+* sample\res\values-af\strings.xml
+* sample\res\values-am\
+* sample\res\values-am\strings.xml
+* sample\res\values-ar\
+* sample\res\values-ar\strings.xml
+* sample\res\values-az-rAZ\
+* sample\res\values-az-rAZ\strings.xml
+* sample\res\values-bg\
+* sample\res\values-bg\strings.xml
+* sample\res\values-bn-rBD\
+* sample\res\values-bn-rBD\strings.xml
+* sample\res\values-bn-rWB\
+* sample\res\values-bn-rWB\strings.xml
+* sample\res\values-ca\
+* sample\res\values-ca\strings.xml
+* sample\res\values-cs\
+* sample\res\values-cs\strings.xml
+* sample\res\values-da\
+* sample\res\values-da\strings.xml
+* sample\res\values-de\
+* sample\res\values-de\strings.xml
+* sample\res\values-el\
+* sample\res\values-el\strings.xml
+* sample\res\values-en-rAU\
+* sample\res\values-en-rAU\strings.xml
+* sample\res\values-en-rGB\
+* sample\res\values-en-rGB\strings.xml
+* sample\res\values-en-rIN\
+* sample\res\values-en-rIN\strings.xml
+* sample\res\values-es-rUS\
+* sample\res\values-es-rUS\strings.xml
+* sample\res\values-es\
+* sample\res\values-es\strings.xml
+* sample\res\values-et-rEE\
+* sample\res\values-et-rEE\strings.xml
+* sample\res\values-eu-rES\
+* sample\res\values-eu-rES\strings.xml
+* sample\res\values-eu-rPV\
+* sample\res\values-eu-rPV\strings.xml
+* sample\res\values-fa\
+* sample\res\values-fa\strings.xml
+* sample\res\values-fi\
+* sample\res\values-fi\strings.xml
+* sample\res\values-fr-rCA\
+* sample\res\values-fr-rCA\strings.xml
+* sample\res\values-fr\
+* sample\res\values-fr\strings.xml
+* sample\res\values-gl-rES\
+* sample\res\values-gl-rES\strings.xml
+* sample\res\values-gl-rGA\
+* sample\res\values-gl-rGA\strings.xml
+* sample\res\values-gu-rIN\
+* sample\res\values-gu-rIN\strings.xml
+* sample\res\values-hi\
+* sample\res\values-hi\strings.xml
+* sample\res\values-hr\
+* sample\res\values-hr\strings.xml
+* sample\res\values-hu\
+* sample\res\values-hu\strings.xml
+* sample\res\values-hy-rAM\
+* sample\res\values-hy-rAM\strings.xml
+* sample\res\values-in\
+* sample\res\values-in\strings.xml
+* sample\res\values-is-rIS\
+* sample\res\values-is-rIS\strings.xml
+* sample\res\values-it\
+* sample\res\values-it\strings.xml
+* sample\res\values-iw\
+* sample\res\values-iw\strings.xml
+* sample\res\values-ja\
+* sample\res\values-ja\strings.xml
+* sample\res\values-ka-rGE\
+* sample\res\values-ka-rGE\strings.xml
+* sample\res\values-kk-rKZ\
+* sample\res\values-kk-rKZ\strings.xml
+* sample\res\values-km-rKH\
+* sample\res\values-km-rKH\strings.xml
+* sample\res\values-kn-rIN\
+* sample\res\values-kn-rIN\strings.xml
+* sample\res\values-kn-rKA\
+* sample\res\values-kn-rKA\strings.xml
+* sample\res\values-ko\
+* sample\res\values-ko\strings.xml
+* sample\res\values-ky-rKG\
+* sample\res\values-ky-rKG\strings.xml
+* sample\res\values-lo-rLA\
+* sample\res\values-lo-rLA\strings.xml
+* sample\res\values-lt\
+* sample\res\values-lt\strings.xml
+* sample\res\values-lv\
+* sample\res\values-lv\strings.xml
+* sample\res\values-mk-rMK\
+* sample\res\values-mk-rMK\strings.xml
+* sample\res\values-ml-rIN\
+* sample\res\values-ml-rIN\strings.xml
+* sample\res\values-ml-rKL\
+* sample\res\values-ml-rKL\strings.xml
+* sample\res\values-mn-rMN\
+* sample\res\values-mn-rMN\strings.xml
+* sample\res\values-mr-rIN\
+* sample\res\values-mr-rIN\strings.xml
+* sample\res\values-mr-rMH\
+* sample\res\values-mr-rMH\strings.xml
+* sample\res\values-ms-rMY\
+* sample\res\values-ms-rMY\strings.xml
+* sample\res\values-my-rMM\
+* sample\res\values-my-rMM\strings.xml
+* sample\res\values-nb\
+* sample\res\values-nb\strings.xml
+* sample\res\values-ne-rNP\
+* sample\res\values-ne-rNP\strings.xml
+* sample\res\values-nl\
+* sample\res\values-nl\strings.xml
+* sample\res\values-pa-rIN\
+* sample\res\values-pa-rIN\strings.xml
+* sample\res\values-pl\
+* sample\res\values-pl\strings.xml
+* sample\res\values-pt-rPT\
+* sample\res\values-pt-rPT\strings.xml
+* sample\res\values-pt\
+* sample\res\values-pt\strings.xml
+* sample\res\values-ro\
+* sample\res\values-ro\strings.xml
+* sample\res\values-ru\
+* sample\res\values-ru\strings.xml
+* sample\res\values-si-rLK\
+* sample\res\values-si-rLK\strings.xml
+* sample\res\values-sk\
+* sample\res\values-sk\strings.xml
+* sample\res\values-sl\
+* sample\res\values-sl\strings.xml
+* sample\res\values-sq-rAL\
+* sample\res\values-sq-rAL\strings.xml
+* sample\res\values-sr\
+* sample\res\values-sr\strings.xml
+* sample\res\values-sv\
+* sample\res\values-sv\strings.xml
+* sample\res\values-sw\
+* sample\res\values-sw\strings.xml
+* sample\res\values-ta-rIN\
+* sample\res\values-ta-rIN\strings.xml
+* sample\res\values-ta-rTN\
+* sample\res\values-ta-rTN\strings.xml
+* sample\res\values-te-rAP\
+* sample\res\values-te-rAP\strings.xml
+* sample\res\values-te-rIN\
+* sample\res\values-te-rIN\strings.xml
+* sample\res\values-th\
+* sample\res\values-th\strings.xml
+* sample\res\values-tl\
+* sample\res\values-tl\strings.xml
+* sample\res\values-tr\
+* sample\res\values-tr\strings.xml
+* sample\res\values-uk\
+* sample\res\values-uk\strings.xml
+* sample\res\values-ur-rPK\
+* sample\res\values-ur-rPK\strings.xml
+* sample\res\values-uz-rUZ\
+* sample\res\values-uz-rUZ\strings.xml
+* sample\res\values-vi\
+* sample\res\values-vi\strings.xml
+* sample\res\values-zh-rCN\
+* sample\res\values-zh-rCN\strings.xml
+* sample\res\values-zh-rHK\
+* sample\res\values-zh-rHK\strings.xml
+* sample\res\values-zh-rTW\
+* sample\res\values-zh-rTW\strings.xml
+* sample\res\values-zu\
+* sample\res\values-zu\strings.xml
+* sample\res\values\
+* sample\res\values\strings.xml
+* sample\src\
+* sample\src\com\
+* sample\src\com\android\
+* sample\src\com\android\ex\
+* sample\src\com\android\ex\chips\
+* sample\src\com\android\ex\chips\sample\
+* sample\src\com\android\ex\chips\sample\MainActivity.java
+* tests\
+* tests\Android.mk
+* tests\AndroidManifest.xml
+* tests\src\
+* tests\src\com\
+* tests\src\com\android\
+* tests\src\com\android\ex\
+* tests\src\com\android\ex\chips\
+* tests\src\com\android\ex\chips\ChipsTest.java
+* tests\src\com\android\ex\chips\RecipientAlternatesAdapterTest.java
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => chips\src\main\AndroidManifest.xml
+* res\ => chips\src\main\res\
+* src\ => chips\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
